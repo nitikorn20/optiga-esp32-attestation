@@ -62,9 +62,13 @@ venv/
 env/
 
 # Language Servers
+.cache/
 .clangd/
 .ccls-cache/
 compile_commands.json
+
+# Editor settings
+.vscode/
 
 # Windows specific
 Thumbs.db
